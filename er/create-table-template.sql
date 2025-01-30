@@ -1,3 +1,4 @@
+-- Active: 1738174788689@@127.0.0.1@5432@postgres
 CREATE TABLE product(
     id INT GENERATED ALWAYS AS IDENTITY,
     name VARCHAR(255),
