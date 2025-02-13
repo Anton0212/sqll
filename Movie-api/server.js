@@ -1,5 +1,8 @@
 import express from 'express';
+import { pgPool } from "./pg_connection.js";
+import bcrypt from 'bcrypt';
 var app = express();
+
 
 const port = process.env.PORT || 3001;
 

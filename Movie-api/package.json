@@ -1,7 +1,7 @@
 {
   "name": "movie_api_project",
   "version": "1.0.0",
-  "description": "schoolwork project",
+  "description": "database project",
   "main": "index.js",
   "type": "module",
   "scripts": {
